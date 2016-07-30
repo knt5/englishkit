@@ -6,7 +6,7 @@ English study kit
 
 * [Visual dictionary](https://github.com/knt5/visual-dictionary)
 * Visual dictionary (iOS)
-* Visual vocabulary notebook
+* [Visual vocabulary notebook](https://github.com/knt5/visual-vocabulary-notebook)
 * Visual vocabulary notebook (iOS)
 
 ## Private study note
